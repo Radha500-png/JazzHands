@@ -8,8 +8,6 @@ Jazz Hands is a simple keyframe-based animation framework for UIKit. Animations 
 
 ![Jazz Hands](./Example/Docs/jazzhands-demo.gif)
 
-Jazz Hands is used extensively in [IF and DO by IFTTT for iPhone and iPad](https://ifttt.com/products), most famously in the app intro.
-
 ##Demo App
 
 Open `JazzHandsDemo.xcworkspace` to see a simple demonstration of moving, scaling, fading, and transforming views in a scrolling app intro.
